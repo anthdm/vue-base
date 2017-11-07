@@ -1,6 +1,6 @@
 # vue-base
 
-> A Vue.js base skeleton project with all the goodies
+> A Vue.js base project skeleton with all the good stuff.
 
 ## Build Setup
 
